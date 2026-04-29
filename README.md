@@ -1,6 +1,4 @@
 # Agents-Ville-Trip-Planner
-# AgentsVille Trip Planner
-
 An AI travel agent that plans a 3-day trip, checks its own work, fixes any mistakes, and only gives you the final answer when everything is perfect.
 
 ---
